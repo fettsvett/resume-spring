@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-css/frontend-css.iml" filepath="$PROJECT_DIR$/frontend-css/frontend-css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend-js/frontend-js.iml" filepath="$PROJECT_DIR$/frontend-js/frontend-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resume.iml" filepath="$PROJECT_DIR$/resume.iml" />
+    </modules>
+  </component>
+</project>

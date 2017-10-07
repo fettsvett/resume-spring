@@ -9,6 +9,12 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <parent>
+        <artifactId>resume</artifactId>
+        <groupId>org.coliverwantsajob</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+
     <build>
         <plugins>
             <plugin>

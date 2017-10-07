@@ -131,7 +131,9 @@ typings/
 .env
 
 backend/target/*
-frontend-css/target/maven-archiver/
+frontend-css/target/*
+frontend-css/.sass-cache/*
+frontend-css/stylesheets/*
 frontend-js/etc/*
 frontend-js/node/*
 frontend-js/package-lock.json

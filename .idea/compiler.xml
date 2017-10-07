@@ -16,7 +16,7 @@
       <module name="backend" target="1.8" />
       <module name="frontend" target="1.5" />
       <module name="frontend-css" target="1.6" />
-      <module name="frontend-js" target="1.5" />
+      <module name="frontend-js" target="1.6" />
       <module name="resume" target="1.6" />
     </bytecodeTargetLevel>
   </component>
